@@ -1,0 +1,20 @@
+{
+   "name": "ayushdedhia25/mvc-framework",
+   "autoload": {
+      "psr-4": {
+         "app\\": "./"
+      }
+   },
+   "authors": [
+      {
+         "name": "ayush-dedhia25",
+         "email": "ayushdedhia25@gmail.com"
+      }
+   ],
+   "config": {
+      "platform": {
+         "php": "5.3.1"
+      }
+   },
+   "require": {}
+}
